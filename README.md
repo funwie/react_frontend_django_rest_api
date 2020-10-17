@@ -19,6 +19,9 @@ python manage.py migrate
 In the project directory **/winterfell_dry_cleaners**
 - python manage.py runserver
 
+### Run tests
+python manage.py test
+
 ### Try out api at
 - {host}/api/
 - Post models using json 

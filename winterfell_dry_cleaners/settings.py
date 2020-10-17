@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'winterfell_dry_cleaners.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'iron',
-        'USER': 'ironing',
-        'PASSWORD': 'goddyco10',
-        'HOST': 'localhost',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '',
     }
 }
